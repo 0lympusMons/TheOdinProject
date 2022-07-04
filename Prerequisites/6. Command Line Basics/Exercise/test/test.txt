@@ -1,0 +1,7 @@
+This is a test.
+
+The course wants me to delete ../test/ but I chose not to. Amen.
+
+#to delete a directory use ``rm -i -r test
+#-i stands for interactive (displays confirmation message e.g. do you really want to delete this directory?)
+#-r stands for recursive (for removing directories)
